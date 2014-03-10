@@ -26,8 +26,9 @@ FAQ
 **Q:** Hovering duck.  
 **A:** ...  
 
-**Q:** What if it doesn't work.  
+**Q:** What if it doesn't work?  
 **A:** I'm sorry. Please, go look for another boilerplate. In the even you know what went wrong help use help you help us all.  
+**Kotori:** Ten rapsel limited milk cream puffs.
 
 Contact info
 -----------
