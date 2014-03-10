@@ -1,7 +1,7 @@
 unity3d-boilerplate
 ===========
 
-Unity3d boilerplate. That's what title says. Yep. No restrictions whatsoever, **just don't use this to terrorize contries or something like that**.
+Unity3d boilerplate. That's what title says. Yep. No restrictions whatsoever, **just don't use this to terrorize countries or something like that**.
 
 What's inside?
 -----------
