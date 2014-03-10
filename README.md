@@ -27,7 +27,7 @@ FAQ
 **A:** ...
 
 **Q:** What if it doesn't work.
-**A:** I'm sorry. Please, go look for another boilerplate. In the even you know what went wrong help use help you help as all.
+**A:** I'm sorry. Please, go look for another boilerplate. In the even you know what went wrong help use help you help us all.
 
 Contact info
 -----------
