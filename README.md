@@ -23,11 +23,11 @@ Everything. Especially, if you are paranoid, it may begin spawning *giant* chick
 FAQ
 -----------
 
-**Q:** Hovering duck.
-**A:** ...
+**Q:** Hovering duck.  
+**A:** ...  
 
-**Q:** What if it doesn't work.
-**A:** I'm sorry. Please, go look for another boilerplate. In the even you know what went wrong help use help you help us all.
+**Q:** What if it doesn't work.  
+**A:** I'm sorry. Please, go look for another boilerplate. In the even you know what went wrong help use help you help us all.  
 
 Contact info
 -----------
